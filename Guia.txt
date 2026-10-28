@@ -1,0 +1,3 @@
+primero instalar el entorno con el archivos "instalar_entorno.bat"
+despues usar el "ejecutar_interfaz.bat" para abrir el simulador
+Actualmente funciona para la versión 3.12.2 de python, no se si funcionará para otras por las dependencias.

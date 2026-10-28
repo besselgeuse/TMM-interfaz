@@ -1,0 +1,8 @@
+# ==============================================================================
+# Dependencias necesarias para TMM-interfaz
+# ==============================================================================
+numpy>=1.24.0          # Calculos matriciales y operaciones numericas
+scipy>=1.10.0          # Interpolacion de indices de refraccion (interp1d)
+torch>=2.0.0           # Calculos tensoriales y optimizacion en tmm_core
+matplotlib>=3.7.0      # Visualizacion y canvas embebido en Tkinter
+openpyxl>=3.1.0        # Lectura y exportacion de datos en formato Excel (.xlsx)
